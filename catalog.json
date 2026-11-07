@@ -1,0 +1,408 @@
+[
+  {
+    "id": "interstellar",
+    "title": "Interstellar",
+    "year": 2014,
+    "runtime": 169,
+    "language": "English",
+    "genres": [
+      "Sci-Fi",
+      "Drama"
+    ],
+    "synopsis": "A pilot travels through a wormhole to find a future for humanity. Space exploration, relativity and a father daughter bond drive the journey.",
+    "tags": [
+      "thoughtful",
+      "space",
+      "emotional"
+    ]
+  },
+  {
+    "id": "arrival",
+    "title": "Arrival",
+    "year": 2016,
+    "runtime": 116,
+    "language": "English",
+    "genres": [
+      "Sci-Fi",
+      "Mystery"
+    ],
+    "synopsis": "A linguist deciphers an alien language while confronting time, memory and difficult choices.",
+    "tags": [
+      "thoughtful",
+      "language",
+      "first contact"
+    ]
+  },
+  {
+    "id": "martian",
+    "title": "The Martian",
+    "year": 2015,
+    "runtime": 144,
+    "language": "English",
+    "genres": [
+      "Sci-Fi",
+      "Adventure"
+    ],
+    "synopsis": "An astronaut stranded on Mars uses science, ingenuity and humor to survive until a rescue mission can reach him.",
+    "tags": [
+      "space",
+      "hopeful",
+      "survival"
+    ]
+  },
+  {
+    "id": "inception",
+    "title": "Inception",
+    "year": 2010,
+    "runtime": 148,
+    "language": "English",
+    "genres": [
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "synopsis": "A team enters layered dreams to plant an idea as its leader struggles with guilt and reality.",
+    "tags": [
+      "mind bending",
+      "heist",
+      "dreams"
+    ]
+  },
+  {
+    "id": "matrix",
+    "title": "The Matrix",
+    "year": 1999,
+    "runtime": 136,
+    "language": "English",
+    "genres": [
+      "Sci-Fi",
+      "Action"
+    ],
+    "synopsis": "A programmer discovers a simulated reality and joins a rebellion against the machines that control it.",
+    "tags": [
+      "mind bending",
+      "cyberpunk",
+      "rebellion"
+    ]
+  },
+  {
+    "id": "spirited-away",
+    "title": "Spirited Away",
+    "year": 2001,
+    "runtime": 125,
+    "language": "Japanese",
+    "genres": [
+      "Animation",
+      "Fantasy"
+    ],
+    "synopsis": "A young girl enters a mysterious spirit world and finds courage while working to rescue her parents.",
+    "tags": [
+      "magical",
+      "family",
+      "courage"
+    ]
+  },
+  {
+    "id": "your-name",
+    "title": "Your Name",
+    "year": 2016,
+    "runtime": 106,
+    "language": "Japanese",
+    "genres": [
+      "Animation",
+      "Romance"
+    ],
+    "synopsis": "Two teenagers connected by an unusual body swapping experience search for one another across distance and time.",
+    "tags": [
+      "emotional",
+      "fate",
+      "youth"
+    ]
+  },
+  {
+    "id": "paddington-2",
+    "title": "Paddington 2",
+    "year": 2017,
+    "runtime": 103,
+    "language": "English",
+    "genres": [
+      "Comedy",
+      "Adventure"
+    ],
+    "synopsis": "A kind bear becomes caught in a theft mystery while trying to buy a special gift for his aunt.",
+    "tags": [
+      "heartwarming",
+      "family",
+      "kindness"
+    ]
+  },
+  {
+    "id": "klaus",
+    "title": "Klaus",
+    "year": 2019,
+    "runtime": 96,
+    "language": "English",
+    "genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "synopsis": "A reluctant postal worker and a reclusive toymaker bring generosity to an isolated town.",
+    "tags": [
+      "heartwarming",
+      "family",
+      "friendship"
+    ]
+  },
+  {
+    "id": "grand-budapest",
+    "title": "The Grand Budapest Hotel",
+    "year": 2014,
+    "runtime": 99,
+    "language": "English",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "synopsis": "A hotel concierge and his young colleague navigate a disputed inheritance and a changing Europe.",
+    "tags": [
+      "stylish",
+      "quirky",
+      "friendship"
+    ]
+  },
+  {
+    "id": "knives-out",
+    "title": "Knives Out",
+    "year": 2019,
+    "runtime": 130,
+    "language": "English",
+    "genres": [
+      "Mystery",
+      "Comedy"
+    ],
+    "synopsis": "A detective investigates a wealthy writer’s death and the conflicting stories of his family.",
+    "tags": [
+      "whodunit",
+      "clever",
+      "ensemble"
+    ]
+  },
+  {
+    "id": "prestige",
+    "title": "The Prestige",
+    "year": 2006,
+    "runtime": 130,
+    "language": "English",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "synopsis": "Two stage magicians pursue a rivalry that turns professional ambition into dangerous obsession.",
+    "tags": [
+      "mind bending",
+      "rivalry",
+      "magic"
+    ]
+  },
+  {
+    "id": "shawshank",
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "runtime": 142,
+    "language": "English",
+    "genres": [
+      "Drama"
+    ],
+    "synopsis": "Two prisoners form a lasting friendship while navigating injustice and preserving hope.",
+    "tags": [
+      "hopeful",
+      "friendship",
+      "resilience"
+    ]
+  },
+  {
+    "id": "good-will",
+    "title": "Good Will Hunting",
+    "year": 1997,
+    "runtime": 126,
+    "language": "English",
+    "genres": [
+      "Drama"
+    ],
+    "synopsis": "A gifted young janitor confronts his past with help from a therapist and close friends.",
+    "tags": [
+      "thoughtful",
+      "growth",
+      "friendship"
+    ]
+  },
+  {
+    "id": "little-women",
+    "title": "Little Women",
+    "year": 2019,
+    "runtime": 135,
+    "language": "English",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "synopsis": "Four sisters pursue creativity, independence and love while defining the lives they want.",
+    "tags": [
+      "family",
+      "emotional",
+      "growth"
+    ]
+  },
+  {
+    "id": "amelie",
+    "title": "Amélie",
+    "year": 2001,
+    "runtime": 122,
+    "language": "French",
+    "genres": [
+      "Romance",
+      "Comedy"
+    ],
+    "synopsis": "A shy Parisian woman quietly changes the lives of people around her while searching for connection.",
+    "tags": [
+      "heartwarming",
+      "quirky",
+      "kindness"
+    ]
+  },
+  {
+    "id": "parasite",
+    "title": "Parasite",
+    "year": 2019,
+    "runtime": 132,
+    "language": "Korean",
+    "genres": [
+      "Thriller",
+      "Drama"
+    ],
+    "synopsis": "An unemployed family becomes intertwined with a wealthy household, exposing divisions of class and power.",
+    "tags": [
+      "social",
+      "suspenseful",
+      "dark"
+    ]
+  },
+  {
+    "id": "three-idiots",
+    "title": "3 Idiots",
+    "year": 2009,
+    "runtime": 170,
+    "language": "Hindi",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "synopsis": "College friends question rigid expectations and rediscover the value of curiosity and genuine learning.",
+    "tags": [
+      "friendship",
+      "inspiring",
+      "college"
+    ]
+  },
+  {
+    "id": "taare-zameen",
+    "title": "Taare Zameen Par",
+    "year": 2007,
+    "runtime": 162,
+    "language": "Hindi",
+    "genres": [
+      "Drama"
+    ],
+    "synopsis": "An art teacher recognizes a child’s learning differences and helps others see his imagination and strengths.",
+    "tags": [
+      "emotional",
+      "inspiring",
+      "education"
+    ]
+  },
+  {
+    "id": "znmd",
+    "title": "Zindagi Na Milegi Dobara",
+    "year": 2011,
+    "runtime": 155,
+    "language": "Hindi",
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "synopsis": "Three friends on a road trip through Spain face their fears and rethink their priorities.",
+    "tags": [
+      "travel",
+      "friendship",
+      "growth"
+    ]
+  },
+  {
+    "id": "dangal",
+    "title": "Dangal",
+    "year": 2016,
+    "runtime": 161,
+    "language": "Hindi",
+    "genres": [
+      "Sports",
+      "Drama"
+    ],
+    "synopsis": "A father coaches his daughters in wrestling as they challenge expectations and pursue competition.",
+    "tags": [
+      "sports",
+      "inspiring",
+      "family"
+    ]
+  },
+  {
+    "id": "chak-de",
+    "title": "Chak De! India",
+    "year": 2007,
+    "runtime": 153,
+    "language": "Hindi",
+    "genres": [
+      "Sports",
+      "Drama"
+    ],
+    "synopsis": "A coach brings together a divided women’s hockey team in pursuit of a shared competitive goal.",
+    "tags": [
+      "sports",
+      "teamwork",
+      "inspiring"
+    ]
+  },
+  {
+    "id": "rrr",
+    "title": "RRR",
+    "year": 2022,
+    "runtime": 187,
+    "language": "Telugu",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "synopsis": "Two men with conflicting missions develop a powerful friendship during colonial rule in a fictionalized epic.",
+    "tags": [
+      "epic",
+      "friendship",
+      "rebellion"
+    ]
+  },
+  {
+    "id": "jai-bhim",
+    "title": "Jai Bhim",
+    "year": 2021,
+    "runtime": 164,
+    "language": "Tamil",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "synopsis": "A lawyer helps a woman seek justice after her husband disappears in police custody.",
+    "tags": [
+      "justice",
+      "social",
+      "intense"
+    ]
+  }
+]
+
